@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of topics and guest speakers, and
+  a description of each class session.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
